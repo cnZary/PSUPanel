@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="src/PSUPanel.Protocol/PSUPanel.Protocol.csproj" />
+  <Project Path="src/PSUPanel.Shared/PSUPanel.Shared.csproj" />
+  <Project Path="src/PSUPanel.Tray/PSUPanel.Tray.csproj" />
+  <Project Path="src/PSUPanel.Panel/PSUPanel.Panel.csproj" />
+  <Project Path="tests/PSUPanel.Protocol.Tests/PSUPanel.Protocol.Tests.csproj" />
+</Solution>
